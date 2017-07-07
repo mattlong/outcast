@@ -1,0 +1,4 @@
+colorama==0.3.6
+python-termstyle==0.1.10
+rednose==0.4.3
+SQLAlchemy==1.0.12
